@@ -1,0 +1,1017 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABORT::(fs,res){fp->flag|=FA__ERROR;L	D:\A\MPLAB\sdmod32\fatfs\ff.c	133;"	d	line:133	file:
+ACMD13::(13|0x80)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	31;"	d	line:31	file:
+ACMD23::(23|0x80)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	36;"	d	line:36	file:
+ACMD41::(41|0x80)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	26;"	d	line:26	file:
+AMIGA::(7093789/2/SAMPLERATE<<DIVIDER	D:\A\MPLAB\sdmod32\mod32.h	12;"	d	line:12
+AM_ARC::0x20	D:\A\MPLAB\sdmod32\fatfs\ff.h	309;"	d	line:309
+AM_DIR::0x10	D:\A\MPLAB\sdmod32\fatfs\ff.h	308;"	d	line:308
+AM_HID::0x02	D:\A\MPLAB\sdmod32\fatfs\ff.h	304;"	d	line:304
+AM_LFN::0x0F	D:\A\MPLAB\sdmod32\fatfs\ff.h	307;"	d	line:307
+AM_MASK::0x3F	D:\A\MPLAB\sdmod32\fatfs\ff.h	310;"	d	line:310
+AM_RDO::0x01	D:\A\MPLAB\sdmod32\fatfs\ff.h	303;"	d	line:303
+AM_SYS::0x04	D:\A\MPLAB\sdmod32\fatfs\ff.h	305;"	d	line:305
+AM_VOL::0x08	D:\A\MPLAB\sdmod32\fatfs\ff.h	306;"	d	line:306
+ARPEGGIO::0x0	D:\A\MPLAB\sdmod32\mod32.h	107;"	d	line:107
+ATA_GET_MODEL::21	D:\A\MPLAB\sdmod32\fatfs\diskio.h	72;"	d	line:72
+ATA_GET_REV::20	D:\A\MPLAB\sdmod32\fatfs\diskio.h	71;"	d	line:71
+ATA_GET_SN::22	D:\A\MPLAB\sdmod32\fatfs\diskio.h	73;"	d	line:73
+BITDEPTH::10	D:\A\MPLAB\sdmod32\mod32.h	3;"	d	line:3
+BPB_BkBootSec::50	D:\A\MPLAB\sdmod32\fatfs\ff.c	423;"	d	line:423	file:
+BPB_BytsPerSec::11	D:\A\MPLAB\sdmod32\fatfs\ff.c	401;"	d	line:401	file:
+BPB_ExtFlags::40	D:\A\MPLAB\sdmod32\fatfs\ff.c	419;"	d	line:419	file:
+BPB_FATSz16::22	D:\A\MPLAB\sdmod32\fatfs\ff.c	408;"	d	line:408	file:
+BPB_FATSz32::36	D:\A\MPLAB\sdmod32\fatfs\ff.c	418;"	d	line:418	file:
+BPB_FSInfo::48	D:\A\MPLAB\sdmod32\fatfs\ff.c	422;"	d	line:422	file:
+BPB_FSVer::42	D:\A\MPLAB\sdmod32\fatfs\ff.c	420;"	d	line:420	file:
+BPB_HiddSec::28	D:\A\MPLAB\sdmod32\fatfs\ff.c	411;"	d	line:411	file:
+BPB_Media::21	D:\A\MPLAB\sdmod32\fatfs\ff.c	407;"	d	line:407	file:
+BPB_NumFATs::16	D:\A\MPLAB\sdmod32\fatfs\ff.c	404;"	d	line:404	file:
+BPB_NumHeads::26	D:\A\MPLAB\sdmod32\fatfs\ff.c	410;"	d	line:410	file:
+BPB_RootClus::44	D:\A\MPLAB\sdmod32\fatfs\ff.c	421;"	d	line:421	file:
+BPB_RootEntCnt::17	D:\A\MPLAB\sdmod32\fatfs\ff.c	405;"	d	line:405	file:
+BPB_RsvdSecCnt::14	D:\A\MPLAB\sdmod32\fatfs\ff.c	403;"	d	line:403	file:
+BPB_SecPerClus::13	D:\A\MPLAB\sdmod32\fatfs\ff.c	402;"	d	line:402	file:
+BPB_SecPerTrk::24	D:\A\MPLAB\sdmod32\fatfs\ff.c	409;"	d	line:409	file:
+BPB_TotSec16::19	D:\A\MPLAB\sdmod32\fatfs\ff.c	406;"	d	line:406	file:
+BPB_TotSec32::32	D:\A\MPLAB\sdmod32\fatfs\ff.c	412;"	d	line:412	file:
+BREAKPATTERNTOROW::0xD	D:\A\MPLAB\sdmod32\mod32.h	120;"	d	line:120
+BS_55AA::510	D:\A\MPLAB\sdmod32\fatfs\ff.c	435;"	d	line:435	file:
+BS_BootSig32::66	D:\A\MPLAB\sdmod32\fatfs\ff.c	425;"	d	line:425	file:
+BS_BootSig::38	D:\A\MPLAB\sdmod32\fatfs\ff.c	414;"	d	line:414	file:
+BS_DrvNum32::64	D:\A\MPLAB\sdmod32\fatfs\ff.c	424;"	d	line:424	file:
+BS_DrvNum::36	D:\A\MPLAB\sdmod32\fatfs\ff.c	413;"	d	line:413	file:
+BS_FilSysType32::82	D:\A\MPLAB\sdmod32\fatfs\ff.c	428;"	d	line:428	file:
+BS_FilSysType::54	D:\A\MPLAB\sdmod32\fatfs\ff.c	417;"	d	line:417	file:
+BS_OEMName::3	D:\A\MPLAB\sdmod32\fatfs\ff.c	400;"	d	line:400	file:
+BS_VolID32::67	D:\A\MPLAB\sdmod32\fatfs\ff.c	426;"	d	line:426	file:
+BS_VolID::39	D:\A\MPLAB\sdmod32\fatfs\ff.c	415;"	d	line:415	file:
+BS_VolLab32::71	D:\A\MPLAB\sdmod32\fatfs\ff.c	427;"	d	line:427	file:
+BS_VolLab::43	D:\A\MPLAB\sdmod32\fatfs\ff.c	416;"	d	line:416	file:
+BS_jmpBoot::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	399;"	d	line:399	file:
+BYTE	D:\A\MPLAB\sdmod32\fatfs\integer.h	22;"	t	line:22
+CHANNELS::8	D:\A\MPLAB\sdmod32\mod32.h	17;"	d	line:17
+CMD0::(0)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	24;"	d	line:24	file:
+CMD10::(10)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	29;"	d	line:29	file:
+CMD12::(12)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	30;"	d	line:30	file:
+CMD16::(16)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	32;"	d	line:32	file:
+CMD17::(17)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	33;"	d	line:33	file:
+CMD18::(18)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	34;"	d	line:34	file:
+CMD1::(1)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	25;"	d	line:25	file:
+CMD23::(23)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	35;"	d	line:35	file:
+CMD24::(24)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	37;"	d	line:37	file:
+CMD25::(25)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	38;"	d	line:38	file:
+CMD41::(41)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	39;"	d	line:39	file:
+CMD55::(55)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	40;"	d	line:40	file:
+CMD58::(58)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	41;"	d	line:41	file:
+CMD8::(8)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	27;"	d	line:27	file:
+CMD9::(9)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	28;"	d	line:28	file:
+CREATE_LINKMAP::0xFFFFFFFF	D:\A\MPLAB\sdmod32\fatfs\ff.h	314;"	d	line:314
+CS_HIGH::_LATF12=1	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	47;"	d	line:47	file:
+CS_LOW::_LATF12=0	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	46;"	d	line:46	file:
+CS_SETOUT::TRISFbits.TRISF12=0	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	45;"	d	line:45	file:
+CTRL_EJECT::7	D:\A\MPLAB\sdmod32\fatfs\diskio.h	61;"	d	line:61
+CTRL_ERASE_SECTOR::4	D:\A\MPLAB\sdmod32\fatfs\diskio.h	56;"	d	line:56
+CTRL_LOCK::6	D:\A\MPLAB\sdmod32\fatfs\diskio.h	60;"	d	line:60
+CTRL_POWER::5	D:\A\MPLAB\sdmod32\fatfs\diskio.h	59;"	d	line:59
+CTRL_SYNC::0	D:\A\MPLAB\sdmod32\fatfs\diskio.h	52;"	d	line:52
+CT_BLOCK::0x08	D:\A\MPLAB\sdmod32\fatfs\diskio.h	86;"	d	line:86
+CT_MMC::0x01	D:\A\MPLAB\sdmod32\fatfs\diskio.h	82;"	d	line:82
+CT_SD1::0x02	D:\A\MPLAB\sdmod32\fatfs\diskio.h	83;"	d	line:83
+CT_SD2::0x04	D:\A\MPLAB\sdmod32\fatfs\diskio.h	84;"	d	line:84
+CT_SDC::(CT_SD1|CT_SD2)	D:\A\MPLAB\sdmod32\fatfs\diskio.h	85;"	d	line:85
+CardType	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	80;"	v	line:80	file:
+CurrVol	D:\A\MPLAB\sdmod32\fatfs\ff.c	478;"	v	line:478	file:
+DDE::0xE5	D:\A\MPLAB\sdmod32\fatfs\ff.c	454;"	d	line:454	file:
+DEF_NAMEBUF::BYTEsfn[12]	D:\A\MPLAB\sdmod32\fatfs\ff.c	487;"	d	line:487	file:
+DEF_NAMEBUF::BYTEsfn[12]	D:\A\MPLAB\sdmod32\fatfs\ff.c	493;"	d	line:493	file:
+DEF_NAMEBUF::BYTEsfn[12];WCHAR*lfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	503;"	d	line:503	file:
+DEF_NAMEBUF::BYTEsfn[12];WCHARlbuf[_MAX_LFN	D:\A\MPLAB\sdmod32\fatfs\ff.c	498;"	d	line:498	file:
+DIR	D:\A\MPLAB\sdmod32\fatfs\ff.h	155;"	t	line:155
+DIR_Attr::11	D:\A\MPLAB\sdmod32\fatfs\ff.c	438;"	d	line:438	file:
+DIR_CrtDate::16	D:\A\MPLAB\sdmod32\fatfs\ff.c	441;"	d	line:441	file:
+DIR_CrtTime::14	D:\A\MPLAB\sdmod32\fatfs\ff.c	440;"	d	line:440	file:
+DIR_FileSize::28	D:\A\MPLAB\sdmod32\fatfs\ff.c	446;"	d	line:446	file:
+DIR_FstClusHI::20	D:\A\MPLAB\sdmod32\fatfs\ff.c	442;"	d	line:442	file:
+DIR_FstClusLO::26	D:\A\MPLAB\sdmod32\fatfs\ff.c	445;"	d	line:445	file:
+DIR_NTres::12	D:\A\MPLAB\sdmod32\fatfs\ff.c	439;"	d	line:439	file:
+DIR_Name::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	437;"	d	line:437	file:
+DIR_WrtDate::24	D:\A\MPLAB\sdmod32\fatfs\ff.c	444;"	d	line:444	file:
+DIR_WrtTime::22	D:\A\MPLAB\sdmod32\fatfs\ff.c	443;"	d	line:443	file:
+DIVIDER::10	D:\A\MPLAB\sdmod32\mod32.h	7;"	d	line:7
+DRESULT	D:\A\MPLAB\sdmod32\fatfs\diskio.h	23;"	t	line:23
+DSTATUS	D:\A\MPLAB\sdmod32\fatfs\diskio.h	14;"	t	line:14
+DWORD	D:\A\MPLAB\sdmod32\fatfs\integer.h	33;"	t	line:33
+ENTER_FF::(fs)	D:\A\MPLAB\sdmod32\fatfs\ff.c	129;"	d	line:129	file:
+ENTER_FF::(fs){if(!lock_fs(fs))returnFR_	D:\A\MPLAB\sdmod32\fatfs\ff.c	126;"	d	line:126	file:
+EOF::(-1)	D:\A\MPLAB\sdmod32\fatfs\ff.h	239;"	d	line:239
+FATBUFFERSIZE::8192	D:\A\MPLAB\sdmod32\mod32.h	6;"	d	line:6
+FATFS	D:\A\MPLAB\sdmod32\fatfs\ff.h	107;"	t	line:107
+FA_CREATE_ALWAYS::0x08	D:\A\MPLAB\sdmod32\fatfs\ff.h	287;"	d	line:287
+FA_CREATE_NEW::0x04	D:\A\MPLAB\sdmod32\fatfs\ff.h	286;"	d	line:286
+FA_OPEN_ALWAYS::0x10	D:\A\MPLAB\sdmod32\fatfs\ff.h	288;"	d	line:288
+FA_OPEN_EXISTING::0x00	D:\A\MPLAB\sdmod32\fatfs\ff.h	281;"	d	line:281
+FA_READ::0x01	D:\A\MPLAB\sdmod32\fatfs\ff.h	280;"	d	line:280
+FA_WRITE::0x02	D:\A\MPLAB\sdmod32\fatfs\ff.h	285;"	d	line:285
+FA__DIRTY::0x40	D:\A\MPLAB\sdmod32\fatfs\ff.h	290;"	d	line:290
+FA__ERROR::0x80	D:\A\MPLAB\sdmod32\fatfs\ff.h	282;"	d	line:282
+FA__WRITTEN::0x20	D:\A\MPLAB\sdmod32\fatfs\ff.h	289;"	d	line:289
+FCLK_FAST::SPIBRG=1	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	63;"	d	line:63	file:
+FCLK_SLOW::SPIBRG=64	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	62;"	d	line:62	file:
+FIL	D:\A\MPLAB\sdmod32\fatfs\ff.h	136;"	t	line:136
+FILESEM	D:\A\MPLAB\sdmod32\fatfs\ff.c	146;"	t	line:146	file:
+FILINFO	D:\A\MPLAB\sdmod32\fatfs\ff.h	171;"	t	line:171
+FINEPORTAMENTODOWN::0x2	D:\A\MPLAB\sdmod32\mod32.h	126;"	d	line:126
+FINEPORTAMENTOUP::0x1	D:\A\MPLAB\sdmod32\mod32.h	125;"	d	line:125
+FINEVOLUMESLIDEDOWN::0xB	D:\A\MPLAB\sdmod32\mod32.h	134;"	d	line:134
+FINEVOLUMESLIDEUP::0xA	D:\A\MPLAB\sdmod32\mod32.h	133;"	d	line:133
+FREE_BUF::	D:\A\MPLAB\sdmod32\fatfs\ff.c	489;"	d	line:489	file:
+FREE_BUF::	D:\A\MPLAB\sdmod32\fatfs\ff.c	495;"	d	line:495	file:
+FREE_BUF::	D:\A\MPLAB\sdmod32\fatfs\ff.c	500;"	d	line:500	file:
+FREE_BUF::ff_memfree(lfn)	D:\A\MPLAB\sdmod32\fatfs\ff.c	507;"	d	line:507	file:
+FRESULT	D:\A\MPLAB\sdmod32\fatfs\ff.h	198;"	t	line:198
+FR_DENIED	D:\A\MPLAB\sdmod32\fatfs\ff.h	185;"	e	line:185
+FR_DISK_ERR	D:\A\MPLAB\sdmod32\fatfs\ff.h	179;"	e	line:179
+FR_EXIST	D:\A\MPLAB\sdmod32\fatfs\ff.h	186;"	e	line:186
+FR_INT_ERR	D:\A\MPLAB\sdmod32\fatfs\ff.h	180;"	e	line:180
+FR_INVALID_DRIVE	D:\A\MPLAB\sdmod32\fatfs\ff.h	189;"	e	line:189
+FR_INVALID_NAME	D:\A\MPLAB\sdmod32\fatfs\ff.h	184;"	e	line:184
+FR_INVALID_OBJECT	D:\A\MPLAB\sdmod32\fatfs\ff.h	187;"	e	line:187
+FR_INVALID_PARAMETER	D:\A\MPLAB\sdmod32\fatfs\ff.h	197;"	e	line:197
+FR_LOCKED	D:\A\MPLAB\sdmod32\fatfs\ff.h	194;"	e	line:194
+FR_MKFS_ABORTED	D:\A\MPLAB\sdmod32\fatfs\ff.h	192;"	e	line:192
+FR_NOT_ENABLED	D:\A\MPLAB\sdmod32\fatfs\ff.h	190;"	e	line:190
+FR_NOT_ENOUGH_CORE	D:\A\MPLAB\sdmod32\fatfs\ff.h	195;"	e	line:195
+FR_NOT_READY	D:\A\MPLAB\sdmod32\fatfs\ff.h	181;"	e	line:181
+FR_NO_FILE	D:\A\MPLAB\sdmod32\fatfs\ff.h	182;"	e	line:182
+FR_NO_FILESYSTEM	D:\A\MPLAB\sdmod32\fatfs\ff.h	191;"	e	line:191
+FR_NO_PATH	D:\A\MPLAB\sdmod32\fatfs\ff.h	183;"	e	line:183
+FR_OK	D:\A\MPLAB\sdmod32\fatfs\ff.h	178;"	e	line:178
+FR_TIMEOUT	D:\A\MPLAB\sdmod32\fatfs\ff.h	193;"	e	line:193
+FR_TOO_MANY_OPEN_FILES	D:\A\MPLAB\sdmod32\fatfs\ff.h	196;"	e	line:196
+FR_WRITE_PROTECTED	D:\A\MPLAB\sdmod32\fatfs\ff.h	188;"	e	line:188
+FSI_Free_Count::488	D:\A\MPLAB\sdmod32\fatfs\ff.c	431;"	d	line:431	file:
+FSI_LeadSig::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	429;"	d	line:429	file:
+FSI_Nxt_Free::492	D:\A\MPLAB\sdmod32\fatfs\ff.c	432;"	d	line:432	file:
+FSI_StrucSig::484	D:\A\MPLAB\sdmod32\fatfs\ff.c	430;"	d	line:430	file:
+FS_FAT12::1	D:\A\MPLAB\sdmod32\fatfs\ff.h	296;"	d	line:296
+FS_FAT16::2	D:\A\MPLAB\sdmod32\fatfs\ff.h	297;"	d	line:297
+FS_FAT32::3	D:\A\MPLAB\sdmod32\fatfs\ff.h	298;"	d	line:298
+FUNKREPEAT::0xF	D:\A\MPLAB\sdmod32\mod32.h	138;"	d	line:138
+FatBuffer	D:\A\MPLAB\sdmod32\mod32.h	97;"	v	line:97
+FatFs	D:\A\MPLAB\sdmod32\fatfs\ff.c	468;"	v	line:468	file:
+Files	D:\A\MPLAB\sdmod32\fatfs\ff.c	483;"	v	line:483	file:
+Fsid	D:\A\MPLAB\sdmod32\fatfs\ff.c	474;"	v	line:474	file:
+GET_BLOCK_SIZE::3	D:\A\MPLAB\sdmod32\fatfs\diskio.h	55;"	d	line:55
+GET_SECTOR_COUNT::1	D:\A\MPLAB\sdmod32\fatfs\diskio.h	53;"	d	line:53
+GET_SECTOR_SIZE::2	D:\A\MPLAB\sdmod32\fatfs\diskio.h	54;"	d	line:54
+GLISSANDOCONTROL::0x3	D:\A\MPLAB\sdmod32\mod32.h	127;"	d	line:127
+INIT_BUF::(dobj)(dobj).fn=sfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	488;"	d	line:488	file:
+INIT_BUF::(dobj){(dobj).fn=sfn;(dobj).lf	D:\A\MPLAB\sdmod32\fatfs\ff.c	494;"	d	line:494	file:
+INIT_BUF::(dobj){(dobj).fn=sfn;(dobj).lf	D:\A\MPLAB\sdmod32\fatfs\ff.c	499;"	d	line:499	file:
+INIT_BUF::(dobj){lfn=ff_memalloc((_MAX_L	D:\A\MPLAB\sdmod32\fatfs\ff.c	506;"	d	line:506	file:
+INT	D:\A\MPLAB\sdmod32\fatfs\integer.h	16;"	t	line:16
+IsDBCS1::(c)(((BYTE)(c)>=_DF1S&&(BYTE)(	D:\A\MPLAB\sdmod32\fatfs\ff.c	360;"	d	line:360	file:
+IsDBCS1::(c)((BYTE)(c)>=_DF1S&&(BYTE)(c	D:\A\MPLAB\sdmod32\fatfs\ff.c	362;"	d	line:362	file:
+IsDBCS1::(c)0	D:\A\MPLAB\sdmod32\fatfs\ff.c	373;"	d	line:373	file:
+IsDBCS2::(c)(((BYTE)(c)>=_DS1S&&(BYTE)(	D:\A\MPLAB\sdmod32\fatfs\ff.c	366;"	d	line:366	file:
+IsDBCS2::(c)(((BYTE)(c)>=_DS1S&&(BYTE)(	D:\A\MPLAB\sdmod32\fatfs\ff.c	368;"	d	line:368	file:
+IsDBCS2::(c)0	D:\A\MPLAB\sdmod32\fatfs\ff.c	374;"	d	line:374	file:
+IsDigit::(c)(((c)>='0')&&((c)<='9'))	D:\A\MPLAB\sdmod32\fatfs\ff.c	355;"	d	line:355	file:
+IsLower::(c)(((c)>='a')&&((c)<='z'))	D:\A\MPLAB\sdmod32\fatfs\ff.c	354;"	d	line:354	file:
+IsUpper::(c)(((c)>='A')&&((c)<='Z'))	D:\A\MPLAB\sdmod32\fatfs\ff.c	353;"	d	line:353	file:
+JUMPTOORDER::0xB	D:\A\MPLAB\sdmod32\mod32.h	118;"	d	line:118
+LD2PD::(vol)(VolToPart[vol].pd)	D:\A\MPLAB\sdmod32\fatfs\ff.h	41;"	d	line:41
+LD2PD::(vol)(vol)	D:\A\MPLAB\sdmod32\fatfs\ff.h	45;"	d	line:45
+LD2PT::(vol)(VolToPart[vol].pt)	D:\A\MPLAB\sdmod32\fatfs\ff.h	42;"	d	line:42
+LD2PT::(vol)0	D:\A\MPLAB\sdmod32\fatfs\ff.h	46;"	d	line:46
+LDIR_Attr::11	D:\A\MPLAB\sdmod32\fatfs\ff.c	448;"	d	line:448	file:
+LDIR_Chksum::13	D:\A\MPLAB\sdmod32\fatfs\ff.c	450;"	d	line:450	file:
+LDIR_FstClusLO::26	D:\A\MPLAB\sdmod32\fatfs\ff.c	451;"	d	line:451	file:
+LDIR_Ord::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	447;"	d	line:447	file:
+LDIR_Type::12	D:\A\MPLAB\sdmod32\fatfs\ff.c	449;"	d	line:449	file:
+LD_CLUST::(dir)(((DWORD)LD_WORD(dir+DIR_	D:\A\MPLAB\sdmod32\fatfs\ff.c	151;"	d	line:151	file:
+LD_DWORD::(ptr)(DWORD)(((DWORD)*((BYTE*)	D:\A\MPLAB\sdmod32\fatfs\ff.h	328;"	d	line:328
+LD_DWORD::(ptr)(DWORD)(*(DWORD*)(BYTE*)(	D:\A\MPLAB\sdmod32\fatfs\ff.h	323;"	d	line:323
+LD_WORD::(ptr)(WORD)(((WORD)*((BYTE*)(p	D:\A\MPLAB\sdmod32\fatfs\ff.h	327;"	d	line:327
+LD_WORD::(ptr)(WORD)(*(WORD*)(BYTE*)(pt	D:\A\MPLAB\sdmod32\fatfs\ff.h	322;"	d	line:322
+LEAVE_FF::(fs,res)returnres	D:\A\MPLAB\sdmod32\fatfs\ff.c	130;"	d	line:130	file:
+LEAVE_FF::(fs,res){unlock_fs(fs,res);ret	D:\A\MPLAB\sdmod32\fatfs\ff.c	127;"	d	line:127	file:
+LLE::0x40	D:\A\MPLAB\sdmod32\fatfs\ff.c	453;"	d	line:453	file:
+LONG	D:\A\MPLAB\sdmod32\fatfs\integer.h	31;"	t	line:31
+LfnBuf	D:\A\MPLAB\sdmod32\fatfs\ff.c	492;"	v	line:492	file:
+LfnOfs	D:\A\MPLAB\sdmod32\fatfs\ff.c	1181;"	v	line:1181	file:
+MBR_Table::446	D:\A\MPLAB\sdmod32\fatfs\ff.c	433;"	d	line:433	file:
+MIN_FAT16::4086	D:\A\MPLAB\sdmod32\fatfs\ff.c	391;"	d	line:391	file:
+MIN_FAT32::65526	D:\A\MPLAB\sdmod32\fatfs\ff.c	392;"	d	line:392	file:
+MMC_GET_CID::12	D:\A\MPLAB\sdmod32\fatfs\diskio.h	66;"	d	line:66
+MMC_GET_CSD::11	D:\A\MPLAB\sdmod32\fatfs\diskio.h	65;"	d	line:65
+MMC_GET_OCR::13	D:\A\MPLAB\sdmod32\fatfs\diskio.h	67;"	d	line:67
+MMC_GET_SDSTAT::14	D:\A\MPLAB\sdmod32\fatfs\diskio.h	68;"	d	line:68
+MMC_GET_TYPE::10	D:\A\MPLAB\sdmod32\fatfs\diskio.h	64;"	d	line:64
+Mixer	D:\A\MPLAB\sdmod32\mod32.h	91;"	v	line:91
+Mod	D:\A\MPLAB\sdmod32\mod32.h	36;"	v	line:36
+NAND_ERASE::31	D:\A\MPLAB\sdmod32\fatfs\diskio.h	77;"	d	line:77
+NAND_FORMAT::30	D:\A\MPLAB\sdmod32\fatfs\diskio.h	76;"	d	line:76
+NDDE::0x05	D:\A\MPLAB\sdmod32\fatfs\ff.c	455;"	d	line:455	file:
+NONOTE::0xFFFF	D:\A\MPLAB\sdmod32\mod32.h	18;"	d	line:18
+NOTECUT::0xC	D:\A\MPLAB\sdmod32\mod32.h	135;"	d	line:135
+NOTEDELAY::0xD	D:\A\MPLAB\sdmod32\mod32.h	136;"	d	line:136
+NS::11	D:\A\MPLAB\sdmod32\fatfs\ff.c	380;"	d	line:380	file:
+NS_BODY::0x08	D:\A\MPLAB\sdmod32\fatfs\ff.c	384;"	d	line:384	file:
+NS_DOT::0x20	D:\A\MPLAB\sdmod32\fatfs\ff.c	386;"	d	line:386	file:
+NS_EXT::0x10	D:\A\MPLAB\sdmod32\fatfs\ff.c	385;"	d	line:385	file:
+NS_LAST::0x04	D:\A\MPLAB\sdmod32\fatfs\ff.c	383;"	d	line:383	file:
+NS_LFN::0x02	D:\A\MPLAB\sdmod32\fatfs\ff.c	382;"	d	line:382	file:
+NS_LOSS::0x01	D:\A\MPLAB\sdmod32\fatfs\ff.c	381;"	d	line:381	file:
+N_FATS::1	D:\A\MPLAB\sdmod32\fatfs\ff.c	3553;"	d	line:3553	file:
+N_ROOTDIR::512	D:\A\MPLAB\sdmod32\fatfs\ff.c	3552;"	d	line:3552	file:
+PARTITION	D:\A\MPLAB\sdmod32\fatfs\ff.h	39;"	t	line:39
+PATTERNDELAY::0xE	D:\A\MPLAB\sdmod32\mod32.h	137;"	d	line:137
+PATTERNLOOP::0x6	D:\A\MPLAB\sdmod32\mod32.h	130;"	d	line:130
+PORTAMENTODOWN::0x2	D:\A\MPLAB\sdmod32\mod32.h	109;"	d	line:109
+PORTAMENTOUP::0x1	D:\A\MPLAB\sdmod32\mod32.h	108;"	d	line:108
+PORTAMENTOVOLUMESLIDE::0x5	D:\A\MPLAB\sdmod32\mod32.h	112;"	d	line:112
+Pattern	D:\A\MPLAB\sdmod32\mod32.h	43;"	t	line:43
+Player	D:\A\MPLAB\sdmod32\mod32.h	77;"	v	line:77
+RES_ERROR	D:\A\MPLAB\sdmod32\fatfs\diskio.h	19;"	e	line:19
+RES_NOTRDY	D:\A\MPLAB\sdmod32\fatfs\diskio.h	21;"	e	line:21
+RES_OK	D:\A\MPLAB\sdmod32\fatfs\diskio.h	18;"	e	line:18
+RES_PARERR	D:\A\MPLAB\sdmod32\fatfs\diskio.h	22;"	e	line:22
+RES_WRPRT	D:\A\MPLAB\sdmod32\fatfs\diskio.h	20;"	e	line:20
+RETRIGGERNOTE::0x9	D:\A\MPLAB\sdmod32\mod32.h	132;"	d	line:132
+ROWS::64	D:\A\MPLAB\sdmod32\mod32.h	15;"	d	line:15
+SAMPLERATE::39063	D:\A\MPLAB\sdmod32\mod32.h	4;"	d	line:4
+SAMPLES::31	D:\A\MPLAB\sdmod32\mod32.h	16;"	d	line:16
+SETCHANNELPANNING::0x8	D:\A\MPLAB\sdmod32\mod32.h	115;"	d	line:115
+SETFILTER::0x0	D:\A\MPLAB\sdmod32\mod32.h	124;"	d	line:124
+SETFINETUNE::0x5	D:\A\MPLAB\sdmod32\mod32.h	129;"	d	line:129
+SETSAMPLEOFFSET::0x9	D:\A\MPLAB\sdmod32\mod32.h	116;"	d	line:116
+SETSPEED::0xF	D:\A\MPLAB\sdmod32\mod32.h	121;"	d	line:121
+SETTREMOLOWAVEFORM::0x7	D:\A\MPLAB\sdmod32\mod32.h	131;"	d	line:131
+SETVIBRATOWAVEFORM::0x4	D:\A\MPLAB\sdmod32\mod32.h	128;"	d	line:128
+SETVOLUME::0xC	D:\A\MPLAB\sdmod32\mod32.h	119;"	d	line:119
+SHORT	D:\A\MPLAB\sdmod32\fatfs\integer.h	25;"	t	line:25
+SOCKINS::0	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	60;"	d	line:60	file:
+SOCKPORT::PORTD	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	58;"	d	line:58	file:
+SOCKWP::0	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	59;"	d	line:59	file:
+SOUNDBUFFERSIZE::8192	D:\A\MPLAB\sdmod32\mod32.h	5;"	d	line:5
+SPIBRG::SPI4BRG	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	49;"	d	line:49	file:
+SPIBUF::SPI4BUF	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	50;"	d	line:50	file:
+SPICONbits::SPI4CONbits	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	53;"	d	line:53	file:
+SPISTATbits::SPI4STATbits	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	51;"	d	line:51	file:
+SPI_CHANNEL::SPI_CHANNEL4	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	52;"	d	line:52	file:
+SS::(fs)((fs)->ssize)	D:\A\MPLAB\sdmod32\fatfs\ff.c	115;"	d	line:115	file:
+SS::(fs)512U	D:\A\MPLAB\sdmod32\fatfs\ff.c	117;"	d	line:117	file:
+STA_NODISK::0x02	D:\A\MPLAB\sdmod32\fatfs\diskio.h	45;"	d	line:45
+STA_NOINIT::0x01	D:\A\MPLAB\sdmod32\fatfs\diskio.h	44;"	d	line:44
+STA_PROTECT::0x04	D:\A\MPLAB\sdmod32\fatfs\diskio.h	46;"	d	line:46
+STEREOSEPARATION::32	D:\A\MPLAB\sdmod32\mod32.h	8;"	d	line:8
+ST_CLUST::(dir,cl){ST_WORD(dir+DIR_FstCl	D:\A\MPLAB\sdmod32\fatfs\ff.c	152;"	d	line:152	file:
+ST_DWORD::(ptr,val)*(BYTE*)(ptr)=(BYTE)(	D:\A\MPLAB\sdmod32\fatfs\ff.h	330;"	d	line:330
+ST_DWORD::(ptr,val)*(DWORD*)(BYTE*)(ptr)	D:\A\MPLAB\sdmod32\fatfs\ff.h	325;"	d	line:325
+ST_WORD::(ptr,val)*(BYTE*)(ptr)=(BYTE)(	D:\A\MPLAB\sdmod32\fatfs\ff.h	329;"	d	line:329
+ST_WORD::(ptr,val)*(WORD*)(BYTE*)(ptr)=	D:\A\MPLAB\sdmod32\fatfs\ff.h	324;"	d	line:324
+SYSCLK::80000000L	D:\A\MPLAB\sdmod32\mod32.h	1;"	d	line:1
+SZ_DIR::32	D:\A\MPLAB\sdmod32\fatfs\ff.c	452;"	d	line:452	file:
+SZ_PTE::16	D:\A\MPLAB\sdmod32\fatfs\ff.c	434;"	d	line:434	file:
+Sample	D:\A\MPLAB\sdmod32\mod32.h	27;"	t	line:27
+SoundBuffer	D:\A\MPLAB\sdmod32\mod32.h	104;"	v	line:104
+Stat	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	74;"	v	line:74	file:
+T3InterruptHandler	D:\A\MPLAB\sdmod32\main.c	72;"	f	line:72
+TCHAR	D:\A\MPLAB\sdmod32\fatfs\ff.h	59;"	t	line:59
+TCHAR	D:\A\MPLAB\sdmod32\fatfs\ff.h	66;"	t	line:66
+TONEPORTAMENTO::0x3	D:\A\MPLAB\sdmod32\mod32.h	110;"	d	line:110
+TREMOLO::0x7	D:\A\MPLAB\sdmod32\mod32.h	114;"	d	line:114
+Timer1	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	77;"	v	line:77	file:
+Timer2	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	77;"	v	line:77	file:
+UCHAR	D:\A\MPLAB\sdmod32\fatfs\integer.h	21;"	t	line:21
+UINT	D:\A\MPLAB\sdmod32\fatfs\integer.h	17;"	t	line:17
+ULONG	D:\A\MPLAB\sdmod32\fatfs\integer.h	32;"	t	line:32
+USHORT	D:\A\MPLAB\sdmod32\fatfs\integer.h	26;"	t	line:26
+VIBRATO::0x4	D:\A\MPLAB\sdmod32\mod32.h	111;"	d	line:111
+VIBRATOVOLUMESLIDE::0x6	D:\A\MPLAB\sdmod32\mod32.h	113;"	d	line:113
+VOLUMESLIDE::0xA	D:\A\MPLAB\sdmod32\mod32.h	117;"	d	line:117
+WCHAR	D:\A\MPLAB\sdmod32\fatfs\integer.h	28;"	t	line:28
+WORD	D:\A\MPLAB\sdmod32\fatfs\integer.h	27;"	t	line:27
+_CODE_PAGE::932	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	60;"	d	line:60
+_DF1E::0x9F	D:\A\MPLAB\sdmod32\fatfs\ff.c	159;"	d	line:159	file:
+_DF1E::0xFE	D:\A\MPLAB\sdmod32\fatfs\ff.c	169;"	d	line:169	file:
+_DF1E::0xFE	D:\A\MPLAB\sdmod32\fatfs\ff.c	177;"	d	line:177	file:
+_DF1E::0xFE	D:\A\MPLAB\sdmod32\fatfs\ff.c	187;"	d	line:187	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	194;"	d	line:194	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	201;"	d	line:201	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	208;"	d	line:208	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	215;"	d	line:215	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	222;"	d	line:222	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	229;"	d	line:229	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	236;"	d	line:236	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	243;"	d	line:243	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	250;"	d	line:250	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	257;"	d	line:257	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	264;"	d	line:264	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	271;"	d	line:271	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	278;"	d	line:278	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	285;"	d	line:285	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	292;"	d	line:292	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	299;"	d	line:299	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	306;"	d	line:306	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	313;"	d	line:313	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	320;"	d	line:320	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	327;"	d	line:327	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	334;"	d	line:334	file:
+_DF1S::0	D:\A\MPLAB\sdmod32\fatfs\ff.c	344;"	d	line:344	file:
+_DF1S::0x81	D:\A\MPLAB\sdmod32\fatfs\ff.c	158;"	d	line:158	file:
+_DF1S::0x81	D:\A\MPLAB\sdmod32\fatfs\ff.c	168;"	d	line:168	file:
+_DF1S::0x81	D:\A\MPLAB\sdmod32\fatfs\ff.c	176;"	d	line:176	file:
+_DF1S::0x81	D:\A\MPLAB\sdmod32\fatfs\ff.c	186;"	d	line:186	file:
+_DF2E::0xFC	D:\A\MPLAB\sdmod32\fatfs\ff.c	161;"	d	line:161	file:
+_DF2S::0xE0	D:\A\MPLAB\sdmod32\fatfs\ff.c	160;"	d	line:160	file:
+_DISKIO	D:\A\MPLAB\sdmod32\fatfs\diskio.h	88;"	d	line:88
+_DS1E::0x5A	D:\A\MPLAB\sdmod32\fatfs\ff.c	179;"	d	line:179	file:
+_DS1E::0x7E	D:\A\MPLAB\sdmod32\fatfs\ff.c	163;"	d	line:163	file:
+_DS1E::0x7E	D:\A\MPLAB\sdmod32\fatfs\ff.c	171;"	d	line:171	file:
+_DS1E::0x7E	D:\A\MPLAB\sdmod32\fatfs\ff.c	189;"	d	line:189	file:
+_DS1S::0x40	D:\A\MPLAB\sdmod32\fatfs\ff.c	162;"	d	line:162	file:
+_DS1S::0x40	D:\A\MPLAB\sdmod32\fatfs\ff.c	170;"	d	line:170	file:
+_DS1S::0x40	D:\A\MPLAB\sdmod32\fatfs\ff.c	188;"	d	line:188	file:
+_DS1S::0x41	D:\A\MPLAB\sdmod32\fatfs\ff.c	178;"	d	line:178	file:
+_DS2E::0x7A	D:\A\MPLAB\sdmod32\fatfs\ff.c	181;"	d	line:181	file:
+_DS2E::0xFC	D:\A\MPLAB\sdmod32\fatfs\ff.c	165;"	d	line:165	file:
+_DS2E::0xFE	D:\A\MPLAB\sdmod32\fatfs\ff.c	173;"	d	line:173	file:
+_DS2E::0xFE	D:\A\MPLAB\sdmod32\fatfs\ff.c	191;"	d	line:191	file:
+_DS2S::0x61	D:\A\MPLAB\sdmod32\fatfs\ff.c	180;"	d	line:180	file:
+_DS2S::0x80	D:\A\MPLAB\sdmod32\fatfs\ff.c	164;"	d	line:164	file:
+_DS2S::0x80	D:\A\MPLAB\sdmod32\fatfs\ff.c	172;"	d	line:172	file:
+_DS2S::0xA1	D:\A\MPLAB\sdmod32\fatfs\ff.c	190;"	d	line:190	file:
+_DS3E::0xFE	D:\A\MPLAB\sdmod32\fatfs\ff.c	183;"	d	line:183	file:
+_DS3S::0x81	D:\A\MPLAB\sdmod32\fatfs\ff.c	182;"	d	line:182	file:
+_EXCVT::{0x80,0x81,0x45,0x41,0x84,0x41	D:\A\MPLAB\sdmod32\fatfs\ff.c	205;"	d	line:205	file:
+_EXCVT::{0x80,0x81,0x82,0x82,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	289;"	d	line:289	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	212;"	d	line:212	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	261;"	d	line:261	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	268;"	d	line:268	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	275;"	d	line:275	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	282;"	d	line:282	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	296;"	d	line:296	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	303;"	d	line:303	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	310;"	d	line:310	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	317;"	d	line:317	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	324;"	d	line:324	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	331;"	d	line:331	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	338;"	d	line:338	file:
+_EXCVT::{0x80,0x9A,0x90,0x41,0x8E,0x41	D:\A\MPLAB\sdmod32\fatfs\ff.c	198;"	d	line:198	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xB7	D:\A\MPLAB\sdmod32\fatfs\ff.c	226;"	d	line:226	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xB7	D:\A\MPLAB\sdmod32\fatfs\ff.c	247;"	d	line:247	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xB7	D:\A\MPLAB\sdmod32\fatfs\ff.c	254;"	d	line:254	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xDE	D:\A\MPLAB\sdmod32\fatfs\ff.c	233;"	d	line:233	file:
+_EXCVT::{0x80,0x9A,0x91,0xA0,0x8E,0x95	D:\A\MPLAB\sdmod32\fatfs\ff.c	219;"	d	line:219	file:
+_EXCVT::{0x81,0x81,0x83,0x83,0x85,0x85	D:\A\MPLAB\sdmod32\fatfs\ff.c	240;"	d	line:240	file:
+_FATFS::6502	D:\A\MPLAB\sdmod32\fatfs\ff.h	18;"	d	line:18
+_FFCONF::6502	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	10;"	d	line:10
+_FS_MINIMIZE::1	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	29;"	d	line:29
+_FS_READONLY::1	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	23;"	d	line:23
+_FS_REENTRANT::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	173;"	d	line:173
+_FS_RPATH::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	113;"	d	line:113
+_FS_SHARE::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	185;"	d	line:185
+_FS_TIMEOUT::1000	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	174;"	d	line:174
+_FS_TINY::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	17;"	d	line:17
+_INTEGER	D:\A\MPLAB\sdmod32\fatfs\integer.h	6;"	d	line:6
+_LFN_UNICODE::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	108;"	d	line:108
+_MAX_LFN::255	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	94;"	d	line:94
+_MAX_SS::512	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	132;"	d	line:132
+_MULTI_PARTITION::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	140;"	d	line:140
+_READONLY::1	D:\A\MPLAB\sdmod32\fatfs\diskio.h	7;"	d	line:7
+_SYNC_t::HANDLE	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	175;"	d	line:175
+_T::(x)L##x	D:\A\MPLAB\sdmod32\fatfs\ff.h	60;"	d	line:60
+_T::(x)x	D:\A\MPLAB\sdmod32\fatfs\ff.h	67;"	d	line:67
+_TEXT::(x)L##x	D:\A\MPLAB\sdmod32\fatfs\ff.h	61;"	d	line:61
+_TEXT::(x)x	D:\A\MPLAB\sdmod32\fatfs\ff.h	68;"	d	line:68
+_USE_ERASE::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	146;"	d	line:146
+_USE_FASTSEEK::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	51;"	d	line:51
+_USE_FORWARD::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	47;"	d	line:47
+_USE_IOCTL::1	D:\A\MPLAB\sdmod32\fatfs\diskio.h	8;"	d	line:8
+_USE_LFN::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	93;"	d	line:93
+_USE_MKFS::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	43;"	d	line:43
+_USE_STRFUNC::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	39;"	d	line:39
+_VOLUMES::1	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	128;"	d	line:128
+_WORD_ACCESS::0	D:\A\MPLAB\sdmod32\fatfs\ffconf.h	156;"	d	line:156
+a	D:\A\MPLAB\sdmod32\fatfs\ff.c	1360;"	l	line:1360
+a	D:\A\MPLAB\sdmod32\fatfs\ff.c	1421;"	l	line:1421
+amigaPeriod	D:\A\MPLAB\sdmod32\mod32.c	148;"	l	line:148	file:
+amigaPeriod	D:\A\MPLAB\sdmod32\mod32.h	62;"	m	line:62
+amigaPeriods	D:\A\MPLAB\sdmod32\mod32.c	17;"	v	line:17
+arp	D:\A\MPLAB\sdmod32\fatfs\ff.c	3987;"	l	line:3987
+assign_drives	D:\A\MPLAB\sdmod32\fatfs\diskio.h	29;"	p	line:29	signature:(int, int)
+b	D:\A\MPLAB\sdmod32\fatfs\ff.c	1633;"	l	line:1633
+b	D:\A\MPLAB\sdmod32\fatfs\ff.c	2014;"	l	line:2014
+b_cyl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3798;"	l	line:3798
+b_data	D:\A\MPLAB\sdmod32\fatfs\ff.c	3567;"	l	line:3567
+b_dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3567;"	l	line:3567
+b_fat	D:\A\MPLAB\sdmod32\fatfs\ff.c	3567;"	l	line:3567
+b_vol	D:\A\MPLAB\sdmod32\fatfs\ff.c	3567;"	l	line:3567
+bc	D:\A\MPLAB\sdmod32\fatfs\ff.c	824;"	l	line:824
+bc	D:\A\MPLAB\sdmod32\fatfs\ff.c	868;"	l	line:868
+bc	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	282;"	l	line:282
+bcs	D:\A\MPLAB\sdmod32\fatfs\ff.c	2876;"	l	line:2876
+be	D:\A\MPLAB\sdmod32\fatfs\ff.c	614;"	l	line:614
+breakFlag	D:\A\MPLAB\sdmod32\mod32.c	265;"	l	line:265	file:
+bsect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2017;"	l	line:2017
+btw	D:\A\MPLAB\sdmod32\fatfs\ff.c	3923;"	l	line:3923
+buf	D:\A\MPLAB\sdmod32\fatfs\ff.c	3421;"	l	line:3421
+buf	D:\A\MPLAB\sdmod32\fatfs\ff.c	3799;"	l	line:3799
+buf	D:\A\MPLAB\sdmod32\fatfs\ff.h	134;"	m	line:134
+bw	D:\A\MPLAB\sdmod32\fatfs\ff.c	3923;"	l	line:3923
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	1141;"	l	line:1141
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	1292;"	l	line:1292
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	1358;"	l	line:1358
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	1419;"	l	line:1419
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	1476;"	l	line:1476
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	1844;"	l	line:1844
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	3871;"	l	line:3871
+c	D:\A\MPLAB\sdmod32\fatfs\ff.c	3991;"	l	line:3991
+cc	D:\A\MPLAB\sdmod32\fatfs\ff.c	2382;"	l	line:2382
+cc	D:\A\MPLAB\sdmod32\fatfs\ff.c	2483;"	l	line:2483
+cc	D:\A\MPLAB\sdmod32\fatfs\ff.c	3992;"	l	line:3992
+ccl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2734;"	l	line:2734
+cdir	D:\A\MPLAB\sdmod32\fatfs\ff.h	98;"	m	line:98
+cf	D:\A\MPLAB\sdmod32\fatfs\ff.c	1633;"	l	line:1633
+channel	D:\A\MPLAB\sdmod32\mod32.c	144;"	l	line:144	file:
+channel	D:\A\MPLAB\sdmod32\mod32.c	266;"	l	line:266	file:
+channel	D:\A\MPLAB\sdmod32\mod32.c	446;"	l	line:446	file:
+channel	D:\A\MPLAB\sdmod32\mod32.c	563;"	l	line:563	file:
+channel	D:\A\MPLAB\sdmod32\mod32.c	594;"	l	line:594	file:
+channel	D:\A\MPLAB\sdmod32\mod32.c	675;"	l	line:675
+channelFrequency	D:\A\MPLAB\sdmod32\mod32.h	88;"	m	line:88
+channelPanning	D:\A\MPLAB\sdmod32\mod32.h	90;"	m	line:90
+channelSampleNumber	D:\A\MPLAB\sdmod32\mod32.h	86;"	m	line:86
+channelSampleNumber	D:\A\MPLAB\sdmod32\mod32.h	96;"	m	line:96
+channelSampleOffset	D:\A\MPLAB\sdmod32\mod32.h	87;"	m	line:87
+channelVolume	D:\A\MPLAB\sdmod32\mod32.h	89;"	m	line:89
+channels	D:\A\MPLAB\sdmod32\mod32.h	94;"	m	line:94
+chc	D:\A\MPLAB\sdmod32\fatfs\ff.c	3992;"	l	line:3992
+check_fs	D:\A\MPLAB\sdmod32\fatfs\ff.c	1982;"	f	line:1982	file:	signature:( FATFS *fs, DWORD sect )
+chk_chr	D:\A\MPLAB\sdmod32\fatfs\ff.c	565;"	f	line:565	file:	signature:(const char* str, int chr)
+chk_lock	D:\A\MPLAB\sdmod32\fatfs\ff.c	609;"	f	line:609	file:	signature:( DIR* dj, int acc )
+chk_mounted	D:\A\MPLAB\sdmod32\fatfs\ff.c	2008;"	f	line:2008	file:	signature:( const TCHAR **path, FATFS **rfs, BYTE chk_wp )
+cl	D:\A\MPLAB\sdmod32\fatfs\ff.c	1043;"	l	line:1043
+cl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2280;"	l	line:2280
+cl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+clear_lock	D:\A\MPLAB\sdmod32\fatfs\ff.c	700;"	f	line:700	file:	signature:( FATFS *fs )
+clmt_clust	D:\A\MPLAB\sdmod32\fatfs\ff.c	1038;"	f	line:1038	file:	signature:( FIL* fp, DWORD ofs )
+clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	1070;"	l	line:1070
+clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	1118;"	l	line:1118
+clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	2381;"	l	line:2381
+clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	2482;"	l	line:2482
+clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	2876;"	l	line:2876
+clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	3084;"	l	line:3084
+clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	3501;"	l	line:3501
+cltbl	D:\A\MPLAB\sdmod32\fatfs\ff.h	128;"	m	line:128
+clu	D:\A\MPLAB\sdmod32\fatfs\ff.c	143;"	m	line:143	file:
+clust	D:\A\MPLAB\sdmod32\fatfs\ff.h	121;"	m	line:121
+clust	D:\A\MPLAB\sdmod32\fatfs\ff.h	147;"	m	line:147
+clust2sect	D:\A\MPLAB\sdmod32\fatfs\ff.c	801;"	f	line:801	signature:( FATFS *fs, DWORD clst )
+cmd	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	367;"	l	line:367
+cmp_lfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1185;"	f	line:1185	file:	signature:( WCHAR *lfnbuf, BYTE *dir )
+count	D:\A\MPLAB\sdmod32\mod32.c	145;"	l	line:145	file:
+count	D:\A\MPLAB\sdmod32\mod32.c	597;"	l	line:597	file:
+count	D:\A\MPLAB\sdmod32\mod32.c	69;"	l	line:69
+create_chain	D:\A\MPLAB\sdmod32\fatfs\ff.c	978;"	f	line:978	file:	signature:( FATFS *fs, DWORD clst )
+create_name	D:\A\MPLAB\sdmod32\fatfs\ff.c	1623;"	f	line:1623	file:	signature:( DIR *dj, const TCHAR **path )
+cs	D:\A\MPLAB\sdmod32\fatfs\ff.c	983;"	l	line:983
+csd	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	519;"	l	line:519
+csect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2383;"	l	line:2383
+csect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2485;"	l	line:2485
+csect	D:\A\MPLAB\sdmod32\fatfs\ff.c	3503;"	l	line:3503
+csize	D:\A\MPLAB\sdmod32\fatfs\ff.h	80;"	m	line:80
+csize	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	520;"	l	line:520
+cst	D:\A\MPLAB\sdmod32\fatfs\ff.c	3563;"	l	line:3563	file:
+ctr	D:\A\MPLAB\sdmod32\fatfs\ff.c	145;"	m	line:145	file:
+current	D:\A\MPLAB\sdmod32\mod32.c	598;"	l	line:598	file:
+currentPattern	D:\A\MPLAB\sdmod32\mod32.h	46;"	m	line:46
+currentRow	D:\A\MPLAB\sdmod32\mod32.c	263;"	l	line:263	file:
+d	D:\A\MPLAB\sdmod32\fatfs\ff.c	3991;"	l	line:3991
+d	D:\A\MPLAB\sdmod32\fatfs\ff.c	530;"	l	line:530
+d	D:\A\MPLAB\sdmod32\fatfs\ff.c	547;"	l	line:547
+d	D:\A\MPLAB\sdmod32\fatfs\ff.c	556;"	l	line:556
+database	D:\A\MPLAB\sdmod32\fatfs\ff.h	104;"	m	line:104
+dcl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3265;"	l	line:3265
+dclst	D:\A\MPLAB\sdmod32\fatfs\ff.c	3197;"	l	line:3197
+dec_lock	D:\A\MPLAB\sdmod32\fatfs\ff.c	677;"	f	line:677	file:	signature:( UINT i )
+delta	D:\A\MPLAB\sdmod32\mod32.c	188;"	l	line:188
+delta	D:\A\MPLAB\sdmod32\mod32.c	224;"	l	line:224
+deselect	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	131;"	f	line:131	file:	signature:(void)
+di	D:\A\MPLAB\sdmod32\fatfs\ff.c	1635;"	l	line:1635
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	1358;"	l	line:1358
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	1419;"	l	line:1419
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	1476;"	l	line:1476
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	1843;"	l	line:1843
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	1925;"	l	line:1925
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	2251;"	l	line:2251
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	2599;"	l	line:2599
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3196;"	l	line:3196
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3264;"	l	line:3264
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3339;"	l	line:3339
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3380;"	l	line:3380
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3421;"	l	line:3421
+dir	D:\A\MPLAB\sdmod32\fatfs\ff.h	149;"	m	line:149
+dir	D:\A\MPLAB\sdmod32\main.c	16;"	v	line:16
+dir	D:\A\MPLAB\sdmod32\mod32.c	10;"	v	line:10
+dir_find	D:\A\MPLAB\sdmod32\fatfs\ff.c	1353;"	f	line:1353	file:	signature:( DIR *dj )
+dir_next	D:\A\MPLAB\sdmod32\fatfs\ff.c	1113;"	f	line:1113	file:	signature:( DIR *dj, int stretch )
+dir_ptr	D:\A\MPLAB\sdmod32\fatfs\ff.h	125;"	m	line:125
+dir_read	D:\A\MPLAB\sdmod32\fatfs\ff.c	1414;"	f	line:1414	file:	signature:( DIR *dj )
+dir_register	D:\A\MPLAB\sdmod32\fatfs\ff.c	1471;"	f	line:1471	file:	signature:( DIR *dj )
+dir_remove	D:\A\MPLAB\sdmod32\fatfs\ff.c	1578;"	f	line:1578	file:	signature:( DIR *dj )
+dir_sdi	D:\A\MPLAB\sdmod32\fatfs\ff.c	1065;"	f	line:1065	file:	signature:( DIR *dj, WORD idx )
+dir_sect	D:\A\MPLAB\sdmod32\fatfs\ff.h	124;"	m	line:124
+dirbase	D:\A\MPLAB\sdmod32\fatfs\ff.h	103;"	m	line:103
+disk_initialize	D:\A\MPLAB\sdmod32\fatfs\diskio.h	30;"	p	line:30	signature:(BYTE)
+disk_initialize	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	363;"	f	line:363	signature:( BYTE drv )
+disk_ioctl	D:\A\MPLAB\sdmod32\fatfs\diskio.h	38;"	p	line:38	signature:(BYTE, BYTE, void*)
+disk_ioctl	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	512;"	f	line:512	signature:( BYTE drv, BYTE ctrl, void *buff )
+disk_read	D:\A\MPLAB\sdmod32\fatfs\diskio.h	32;"	p	line:32	signature:(BYTE, BYTE*, DWORD, BYTE)
+disk_read	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	433;"	f	line:433	signature:( BYTE drv, BYTE *buff, DWORD sector, BYTE count )
+disk_status	D:\A\MPLAB\sdmod32\fatfs\diskio.h	31;"	p	line:31	signature:(BYTE)
+disk_status	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	419;"	f	line:419	signature:( BYTE drv )
+disk_timerproc	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	626;"	f	line:626	signature:(void)
+disk_write	D:\A\MPLAB\sdmod32\fatfs\diskio.h	35;"	p	line:35	signature:(BYTE, const BYTE*, DWORD, BYTE)
+disk_write	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	162;"	f	line:162	signature:( BYTE drv, const BYTE *buff, DWORD sector, BYTE count )
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	2250;"	l	line:2250
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	2699;"	l	line:2699
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	2732;"	l	line:2732
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	3050;"	l	line:3050
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	3195;"	l	line:3195
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	3263;"	l	line:3263
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	3338;"	l	line:3338
+dj	D:\A\MPLAB\sdmod32\fatfs\ff.c	3379;"	l	line:3379
+djn	D:\A\MPLAB\sdmod32\fatfs\ff.c	3420;"	l	line:3420
+djo	D:\A\MPLAB\sdmod32\fatfs\ff.c	3420;"	l	line:3420
+dotPointer	D:\A\MPLAB\sdmod32\mod32.c	724;"	l	line:724
+dotPointer	D:\A\MPLAB\sdmod32\mod32.c	741;"	l	line:741
+drv	D:\A\MPLAB\sdmod32\fatfs\ff.h	79;"	m	line:79
+dsc	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+dsc	D:\A\MPLAB\sdmod32\fatfs\ff.c	3265;"	l	line:3265
+dsect	D:\A\MPLAB\sdmod32\fatfs\ff.h	122;"	m	line:122
+dw	D:\A\MPLAB\sdmod32\fatfs\ff.c	2280;"	l	line:2280
+dw	D:\A\MPLAB\sdmod32\fatfs\ff.c	3422;"	l	line:3422
+e_cyl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3798;"	l	line:3798
+e_hd	D:\A\MPLAB\sdmod32\fatfs\ff.c	3799;"	l	line:3799
+eb	D:\A\MPLAB\sdmod32\fatfs\ff.c	3765;"	l	line:3765
+ecl	D:\A\MPLAB\sdmod32\fatfs\ff.c	933;"	l	line:933
+effectNumber	D:\A\MPLAB\sdmod32\mod32.c	269;"	l	line:269	file:
+effectNumber	D:\A\MPLAB\sdmod32\mod32.c	449;"	l	line:449	file:
+effectNumber	D:\A\MPLAB\sdmod32\mod32.h	41;"	m	line:41
+effectParameter	D:\A\MPLAB\sdmod32\mod32.c	270;"	l	line:270	file:
+effectParameter	D:\A\MPLAB\sdmod32\mod32.c	450;"	l	line:450	file:
+effectParameter	D:\A\MPLAB\sdmod32\mod32.h	42;"	m	line:42
+effectParameterX	D:\A\MPLAB\sdmod32\mod32.c	271;"	l	line:271	file:
+effectParameterX	D:\A\MPLAB\sdmod32\mod32.c	451;"	l	line:451	file:
+effectParameterY	D:\A\MPLAB\sdmod32\mod32.c	272;"	l	line:272	file:
+effectParameterY	D:\A\MPLAB\sdmod32\mod32.c	452;"	l	line:452	file:
+enq_lock	D:\A\MPLAB\sdmod32\fatfs\ff.c	635;"	f	line:635	file:	signature:(void)
+excvt	D:\A\MPLAB\sdmod32\fatfs\ff.c	1629;"	l	line:1629	file:
+f	D:\A\MPLAB\sdmod32\fatfs\ff.c	3988;"	l	line:3988
+f_chdir	D:\A\MPLAB\sdmod32\fatfs\ff.c	2694;"	f	line:2694	signature:( const TCHAR *path )
+f_chdir	D:\A\MPLAB\sdmod32\fatfs\ff.h	223;"	p	line:223	signature:(const TCHAR*)
+f_chdrive	D:\A\MPLAB\sdmod32\fatfs\ff.c	2681;"	f	line:2681	signature:( BYTE drv )
+f_chdrive	D:\A\MPLAB\sdmod32\fatfs\ff.h	222;"	p	line:222	signature:(BYTE)
+f_chmod	D:\A\MPLAB\sdmod32\fatfs\ff.c	3331;"	f	line:3331	signature:( const TCHAR *path, BYTE value, BYTE mask )
+f_chmod	D:\A\MPLAB\sdmod32\fatfs\ff.h	219;"	p	line:219	signature:(const TCHAR*, BYTE, BYTE)
+f_close	D:\A\MPLAB\sdmod32\fatfs\ff.c	2640;"	f	line:2640	signature:( FIL *fp )
+f_close	D:\A\MPLAB\sdmod32\fatfs\ff.h	209;"	p	line:209	signature:(FIL*)
+f_eof::(fp)(((fp)->fptr==(fp)->fsize)	D:\A\MPLAB\sdmod32\fatfs\ff.h	233;"	d	line:233
+f_error::(fp)(((fp)->flag&FA__ERROR)?1:	D:\A\MPLAB\sdmod32\fatfs\ff.h	234;"	d	line:234
+f_fdisk	D:\A\MPLAB\sdmod32\fatfs\ff.c	3792;"	f	line:3792	signature:( BYTE pdrv, const DWORD szt[], void* work )
+f_fdisk	D:\A\MPLAB\sdmod32\fatfs\ff.h	227;"	p	line:227	signature:(BYTE, const DWORD[], void*)
+f_forward	D:\A\MPLAB\sdmod32\fatfs\ff.c	3493;"	f	line:3493	signature:( FIL *fp, UINT (*func)(const BYTE*,UINT), UINT btr, UINT *bf )
+f_forward	D:\A\MPLAB\sdmod32\fatfs\ff.h	225;"	p	line:225	signature:(FIL*, UINT(*)(const BYTE*,UINT), UINT, UINT*)
+f_getcwd	D:\A\MPLAB\sdmod32\fatfs\ff.c	2726;"	f	line:2726	signature:( TCHAR *path, UINT sz_path )
+f_getcwd	D:\A\MPLAB\sdmod32\fatfs\ff.h	224;"	p	line:224	signature:(TCHAR*, UINT)
+f_getfree	D:\A\MPLAB\sdmod32\fatfs\ff.c	3077;"	f	line:3077	signature:( const TCHAR *path, DWORD *nclst, FATFS **fatfs )
+f_getfree	D:\A\MPLAB\sdmod32\fatfs\ff.h	214;"	p	line:214	signature:(const TCHAR*, DWORD*, FATFS**)
+f_gets	D:\A\MPLAB\sdmod32\fatfs\ff.c	3864;"	f	line:3864	signature:( TCHAR* buff, int len, FIL* fil )
+f_gets	D:\A\MPLAB\sdmod32\fatfs\ff.h	231;"	p	line:231	signature:(TCHAR*, int, FIL*)
+f_lseek	D:\A\MPLAB\sdmod32\fatfs\ff.c	2804;"	f	line:2804	signature:( FIL *fp, DWORD ofs )
+f_lseek	D:\A\MPLAB\sdmod32\fatfs\ff.h	208;"	p	line:208	signature:(FIL*, DWORD)
+f_mkdir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3258;"	f	line:3258	signature:( const TCHAR *path )
+f_mkdir	D:\A\MPLAB\sdmod32\fatfs\ff.h	218;"	p	line:218	signature:(const TCHAR*)
+f_mkfs	D:\A\MPLAB\sdmod32\fatfs\ff.c	3556;"	f	line:3556	signature:( BYTE drv, BYTE sfd, UINT au )
+f_mkfs	D:\A\MPLAB\sdmod32\fatfs\ff.h	226;"	p	line:226	signature:(BYTE, BYTE, UINT)
+f_mount	D:\A\MPLAB\sdmod32\fatfs\ff.c	2203;"	f	line:2203	signature:( BYTE vol, FATFS *fs )
+f_mount	D:\A\MPLAB\sdmod32\fatfs\ff.h	205;"	p	line:205	signature:(BYTE, FATFS*)
+f_open	D:\A\MPLAB\sdmod32\fatfs\ff.c	2243;"	f	line:2243	signature:( FIL *fp, const TCHAR *path, BYTE mode )
+f_open	D:\A\MPLAB\sdmod32\fatfs\ff.h	206;"	p	line:206	signature:(FIL*, const TCHAR*, BYTE)
+f_opendir	D:\A\MPLAB\sdmod32\fatfs\ff.c	2962;"	f	line:2962	signature:( DIR *dj, const TCHAR *path )
+f_opendir	D:\A\MPLAB\sdmod32\fatfs\ff.h	210;"	p	line:210	signature:(DIR*, const TCHAR*)
+f_printf	D:\A\MPLAB\sdmod32\fatfs\ff.c	3981;"	f	line:3981	signature:( FIL* fil, const TCHAR* str, ... )
+f_printf	D:\A\MPLAB\sdmod32\fatfs\ff.h	230;"	p	line:230	signature:(FIL*, const TCHAR*, ...)
+f_putc	D:\A\MPLAB\sdmod32\fatfs\ff.c	3918;"	f	line:3918	signature:( TCHAR c, FIL* fil )
+f_putc	D:\A\MPLAB\sdmod32\fatfs\ff.h	228;"	p	line:228	signature:(TCHAR, FIL*)
+f_puts	D:\A\MPLAB\sdmod32\fatfs\ff.c	3961;"	f	line:3961	signature:( const TCHAR* str, FIL* fil )
+f_puts	D:\A\MPLAB\sdmod32\fatfs\ff.h	229;"	p	line:229	signature:(const TCHAR*, FIL*)
+f_read	D:\A\MPLAB\sdmod32\fatfs\ff.c	2373;"	f	line:2373	signature:( FIL *fp, void *buff, UINT btr, UINT *br )
+f_read	D:\A\MPLAB\sdmod32\fatfs\ff.h	207;"	p	line:207	signature:(FIL*, void*, UINT, UINT*)
+f_readdir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3002;"	f	line:3002	signature:( DIR *dj, FILINFO *fno )
+f_readdir	D:\A\MPLAB\sdmod32\fatfs\ff.h	211;"	p	line:211	signature:(DIR*, FILINFO*)
+f_rename	D:\A\MPLAB\sdmod32\fatfs\ff.c	3414;"	f	line:3414	signature:( const TCHAR *path_old, const TCHAR *path_new )
+f_rename	D:\A\MPLAB\sdmod32\fatfs\ff.h	221;"	p	line:221	signature:(const TCHAR*, const TCHAR*)
+f_size::(fp)((fp)->fsize)	D:\A\MPLAB\sdmod32\fatfs\ff.h	236;"	d	line:236
+f_stat	D:\A\MPLAB\sdmod32\fatfs\ff.c	3044;"	f	line:3044	signature:( const TCHAR *path, FILINFO *fno )
+f_stat	D:\A\MPLAB\sdmod32\fatfs\ff.h	212;"	p	line:212	signature:(const TCHAR*, FILINFO*)
+f_sync	D:\A\MPLAB\sdmod32\fatfs\ff.c	2593;"	f	line:2593	signature:( FIL *fp )
+f_sync	D:\A\MPLAB\sdmod32\fatfs\ff.h	216;"	p	line:216	signature:(FIL*)
+f_tell::(fp)((fp)->fptr)	D:\A\MPLAB\sdmod32\fatfs\ff.h	235;"	d	line:235
+f_truncate	D:\A\MPLAB\sdmod32\fatfs\ff.c	3142;"	f	line:3142	signature:( FIL *fp )
+f_truncate	D:\A\MPLAB\sdmod32\fatfs\ff.h	215;"	p	line:215	signature:(FIL*)
+f_unlink	D:\A\MPLAB\sdmod32\fatfs\ff.c	3190;"	f	line:3190	signature:( const TCHAR *path )
+f_unlink	D:\A\MPLAB\sdmod32\fatfs\ff.h	217;"	p	line:217	signature:(const TCHAR*)
+f_utime	D:\A\MPLAB\sdmod32\fatfs\ff.c	3373;"	f	line:3373	signature:( const TCHAR *path, const FILINFO *fno )
+f_utime	D:\A\MPLAB\sdmod32\fatfs\ff.h	220;"	p	line:220	signature:(const TCHAR*, const FILINFO*)
+f_write	D:\A\MPLAB\sdmod32\fatfs\ff.c	2474;"	f	line:2474	signature:( FIL *fp, const void *buff, UINT btw, UINT *bw )
+f_write	D:\A\MPLAB\sdmod32\fatfs\ff.h	213;"	p	line:213	signature:(FIL*, const void*, UINT, UINT*)
+fasize	D:\A\MPLAB\sdmod32\fatfs\ff.c	2017;"	l	line:2017
+fat	D:\A\MPLAB\sdmod32\fatfs\ff.c	3086;"	l	line:3086
+fatBufferSize	D:\A\MPLAB\sdmod32\mod32.c	596;"	l	line:596	file:
+fatbase	D:\A\MPLAB\sdmod32\fatfs\ff.h	102;"	m	line:102
+fattrib	D:\A\MPLAB\sdmod32\fatfs\ff.h	165;"	m	line:165
+fdate	D:\A\MPLAB\sdmod32\fatfs\ff.h	163;"	m	line:163
+ff_convert	D:\A\MPLAB\sdmod32\fatfs\ff.h	255;"	p	line:255	signature:(WCHAR, UINT)
+ff_cre_syncobj	D:\A\MPLAB\sdmod32\fatfs\ff.h	265;"	p	line:265	signature:(BYTE, _SYNC_t*)
+ff_del_syncobj	D:\A\MPLAB\sdmod32\fatfs\ff.h	268;"	p	line:268	signature:(_SYNC_t)
+ff_memalloc	D:\A\MPLAB\sdmod32\fatfs\ff.h	258;"	p	line:258	signature:(UINT)
+ff_memfree	D:\A\MPLAB\sdmod32\fatfs\ff.h	259;"	p	line:259	signature:(void*)
+ff_rel_grant	D:\A\MPLAB\sdmod32\fatfs\ff.h	267;"	p	line:267	signature:(_SYNC_t)
+ff_req_grant	D:\A\MPLAB\sdmod32\fatfs\ff.h	266;"	p	line:266	signature:(_SYNC_t)
+ff_wtoupper	D:\A\MPLAB\sdmod32\fatfs\ff.h	256;"	p	line:256	signature:(WCHAR)
+file	D:\A\MPLAB\sdmod32\main.c	18;"	v	line:18
+file	D:\A\MPLAB\sdmod32\mod32.c	12;"	v	line:12
+fileInfo	D:\A\MPLAB\sdmod32\main.c	17;"	v	line:17
+fileInfo	D:\A\MPLAB\sdmod32\mod32.c	11;"	v	line:11
+fileOffset	D:\A\MPLAB\sdmod32\mod32.c	120;"	l	line:120
+fineTune	D:\A\MPLAB\sdmod32\mod32.h	23;"	m	line:23
+fit_lfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1249;"	f	line:1249	file:	signature:( const WCHAR *lfnbuf, BYTE *dir, BYTE ord, BYTE sum )
+flag	D:\A\MPLAB\sdmod32\fatfs\ff.h	116;"	m	line:116
+fmt	D:\A\MPLAB\sdmod32\fatfs\ff.c	2014;"	l	line:2014
+fmt	D:\A\MPLAB\sdmod32\fatfs\ff.c	3564;"	l	line:3564
+fn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1479;"	l	line:1479
+fn	D:\A\MPLAB\sdmod32\fatfs\ff.h	150;"	m	line:150
+fname	D:\A\MPLAB\sdmod32\fatfs\ff.h	166;"	m	line:166
+fno	D:\A\MPLAB\sdmod32\fatfs\ff.c	2736;"	l	line:2736
+follow_path	D:\A\MPLAB\sdmod32\fatfs\ff.c	1919;"	f	line:1919	file:	signature:( DIR *dj, const TCHAR *path )
+fptr	D:\A\MPLAB\sdmod32\fatfs\ff.h	118;"	m	line:118
+free_clust	D:\A\MPLAB\sdmod32\fatfs\ff.h	94;"	m	line:94
+fs	D:\A\MPLAB\sdmod32\fatfs\ff.c	142;"	m	line:142	file:
+fs	D:\A\MPLAB\sdmod32\fatfs\ff.c	2020;"	l	line:2020
+fs	D:\A\MPLAB\sdmod32\fatfs\ff.c	2647;"	l	line:2647
+fs	D:\A\MPLAB\sdmod32\fatfs\ff.c	3569;"	l	line:3569
+fs	D:\A\MPLAB\sdmod32\fatfs\ff.h	114;"	m	line:114
+fs	D:\A\MPLAB\sdmod32\fatfs\ff.h	143;"	m	line:143
+fs_type	D:\A\MPLAB\sdmod32\fatfs\ff.h	78;"	m	line:78
+fsi_flag	D:\A\MPLAB\sdmod32\fatfs\ff.h	83;"	m	line:83
+fsi_sector	D:\A\MPLAB\sdmod32\fatfs\ff.h	95;"	m	line:95
+fsize	D:\A\MPLAB\sdmod32\fatfs\ff.h	101;"	m	line:101
+fsize	D:\A\MPLAB\sdmod32\fatfs\ff.h	119;"	m	line:119
+fsize	D:\A\MPLAB\sdmod32\fatfs\ff.h	162;"	m	line:162
+fso	D:\A\MPLAB\sdmod32\main.c	15;"	v	line:15
+fso	D:\A\MPLAB\sdmod32\mod32.c	9;"	v	line:9
+ftime	D:\A\MPLAB\sdmod32\fatfs\ff.h	164;"	m	line:164
+gen_numname	D:\A\MPLAB\sdmod32\fatfs\ff.c	1285;"	f	line:1285	signature:( BYTE *dst, const BYTE *src, const WCHAR *lfn, WORD seq )
+get_fat	D:\A\MPLAB\sdmod32\fatfs\ff.c	819;"	f	line:819	signature:( FATFS *fs, DWORD clst )
+get_fattime	D:\A\MPLAB\sdmod32\fatfs\ff.h	250;"	p	line:250	signature:(void)
+get_fileinfo	D:\A\MPLAB\sdmod32\fatfs\ff.c	1837;"	f	line:1837	file:	signature:( DIR *dj, FILINFO *fno )
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1119;"	l	line:1119
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1190;"	l	line:1190
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1221;"	l	line:1221
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1256;"	l	line:1256
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1293;"	l	line:1293
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1584;"	l	line:1584
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1635;"	l	line:1635
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	1842;"	l	line:1842
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	2733;"	l	line:2733
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	3085;"	l	line:3085
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	3566;"	l	line:3566
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	3798;"	l	line:3798
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	3989;"	l	line:3989
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	614;"	l	line:614
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	637;"	l	line:637
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	650;"	l	line:650
+i	D:\A\MPLAB\sdmod32\fatfs\ff.c	704;"	l	line:704
+i	D:\A\MPLAB\sdmod32\main.c	23;"	l	line:23
+i	D:\A\MPLAB\sdmod32\mod32.c	119;"	l	line:119
+i	D:\A\MPLAB\sdmod32\mod32.c	146;"	l	line:146	file:
+i	D:\A\MPLAB\sdmod32\mod32.c	70;"	l	line:70
+i	D:\A\MPLAB\sdmod32\mod32.c	740;"	l	line:740
+ic	D:\A\MPLAB\sdmod32\fatfs\ff.c	1071;"	l	line:1071
+id	D:\A\MPLAB\sdmod32\fatfs\ff.h	115;"	m	line:115
+id	D:\A\MPLAB\sdmod32\fatfs\ff.h	144;"	m	line:144
+id	D:\A\MPLAB\sdmod32\fatfs\ff.h	84;"	m	line:84
+idx	D:\A\MPLAB\sdmod32\fatfs\ff.c	144;"	m	line:144	file:
+ifptr	D:\A\MPLAB\sdmod32\fatfs\ff.c	2876;"	l	line:2876
+inc_lock	D:\A\MPLAB\sdmod32\fatfs\ff.c	645;"	f	line:645	file:	signature:( DIR* dj, int acc )
+index	D:\A\MPLAB\sdmod32\fatfs\ff.h	145;"	m	line:145
+is	D:\A\MPLAB\sdmod32\fatfs\ff.c	1478;"	l	line:1478
+j	D:\A\MPLAB\sdmod32\fatfs\ff.c	1293;"	l	line:1293
+j	D:\A\MPLAB\sdmod32\fatfs\ff.c	3989;"	l	line:3989
+jumpFlag	D:\A\MPLAB\sdmod32\mod32.c	264;"	l	line:264	file:
+lastAmigaPeriod	D:\A\MPLAB\sdmod32\mod32.h	63;"	m	line:63
+lastNote	D:\A\MPLAB\sdmod32\mod32.h	61;"	m	line:61
+lastSampleNumber	D:\A\MPLAB\sdmod32\mod32.h	59;"	m	line:59
+last_clust	D:\A\MPLAB\sdmod32\fatfs\ff.h	93;"	m	line:93
+left	D:\A\MPLAB\sdmod32\mod32.h	100;"	m	line:100
+length	D:\A\MPLAB\sdmod32\mod32.h	22;"	m	line:22
+lfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1480;"	l	line:1480
+lfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1634;"	l	line:1634
+lfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1889;"	l	line:1889
+lfn	D:\A\MPLAB\sdmod32\fatfs\ff.h	152;"	m	line:152
+lfn_idx	D:\A\MPLAB\sdmod32\fatfs\ff.h	153;"	m	line:153
+lfname	D:\A\MPLAB\sdmod32\fatfs\ff.h	168;"	m	line:168
+lfsize	D:\A\MPLAB\sdmod32\fatfs\ff.h	169;"	m	line:169
+loadHeader	D:\A\MPLAB\sdmod32\mod32.c	68;"	f	line:68
+loadMod	D:\A\MPLAB\sdmod32\mod32.c	674;"	f	line:674
+loadNextFile	D:\A\MPLAB\sdmod32\mod32.c	723;"	f	line:723
+loadPattern	D:\A\MPLAB\sdmod32\mod32.c	142;"	f	line:142	signature:(uint8_t pattern)
+loadPreviousFile	D:\A\MPLAB\sdmod32\mod32.c	739;"	f	line:739
+loadSamples	D:\A\MPLAB\sdmod32\mod32.c	118;"	f	line:118
+lock_fs	D:\A\MPLAB\sdmod32\fatfs\ff.c	578;"	f	line:578	file:	signature:( FATFS *fs )
+lockid	D:\A\MPLAB\sdmod32\fatfs\ff.h	131;"	m	line:131
+loopBegin	D:\A\MPLAB\sdmod32\mod32.h	25;"	m	line:25
+loopLength	D:\A\MPLAB\sdmod32\mod32.h	26;"	m	line:26
+main	D:\A\MPLAB\sdmod32\main.c	20;"	f	line:20
+md	D:\A\MPLAB\sdmod32\fatfs\ff.c	3564;"	l	line:3564
+mem_cmp	D:\A\MPLAB\sdmod32\fatfs\ff.c	555;"	f	line:555	file:	signature:(const void* dst, const void* src, UINT cnt)
+mem_cpy	D:\A\MPLAB\sdmod32\fatfs\ff.c	529;"	f	line:529	file:	signature:(void* dst, const void* src, UINT cnt)
+mem_set	D:\A\MPLAB\sdmod32\fatfs\ff.c	546;"	f	line:546	file:	signature:(void* dst, int val, UINT cnt)
+mixer	D:\A\MPLAB\sdmod32\mod32.c	591;"	f	line:591
+modFileNumber	D:\A\MPLAB\sdmod32\mod32.c	14;"	v	line:14
+move_window	D:\A\MPLAB\sdmod32\fatfs\ff.c	719;"	f	line:719	file:	signature:( FATFS *fs, DWORD sector )
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	1338;"	l	line:1338
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	1478;"	l	line:1478
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	2733;"	l	line:2733
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	3084;"	l	line:3084
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	3264;"	l	line:3264
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	3565;"	l	line:3565
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	3798;"	l	line:3798
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	3870;"	l	line:3870
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	3966;"	l	line:3966
+n	D:\A\MPLAB\sdmod32\fatfs\ff.c	681;"	l	line:681
+n	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	316;"	l	line:316
+n	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	367;"	l	line:367
+n	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	519;"	l	line:519
+n	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	631;"	l	line:631
+n_clst	D:\A\MPLAB\sdmod32\fatfs\ff.c	3565;"	l	line:3565
+n_dir	D:\A\MPLAB\sdmod32\fatfs\ff.c	3568;"	l	line:3568
+n_fat	D:\A\MPLAB\sdmod32\fatfs\ff.c	3568;"	l	line:3568
+n_fatent	D:\A\MPLAB\sdmod32\fatfs\ff.h	100;"	m	line:100
+n_fats	D:\A\MPLAB\sdmod32\fatfs\ff.h	81;"	m	line:81
+n_rootdir	D:\A\MPLAB\sdmod32\fatfs\ff.h	85;"	m	line:85
+n_rsv	D:\A\MPLAB\sdmod32\fatfs\ff.c	3568;"	l	line:3568
+n_vol	D:\A\MPLAB\sdmod32\fatfs\ff.c	3568;"	l	line:3568
+name	D:\A\MPLAB\sdmod32\mod32.h	21;"	m	line:21
+name	D:\A\MPLAB\sdmod32\mod32.h	30;"	m	line:30
+ncl	D:\A\MPLAB\sdmod32\fatfs\ff.c	1043;"	l	line:1043
+ncl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+ncl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3147;"	l	line:3147
+ncl	D:\A\MPLAB\sdmod32\fatfs\ff.c	983;"	l	line:983
+nclst	D:\A\MPLAB\sdmod32\fatfs\ff.c	2017;"	l	line:2017
+ne	D:\A\MPLAB\sdmod32\fatfs\ff.c	1478;"	l	line:1478
+next	D:\A\MPLAB\sdmod32\mod32.c	599;"	l	line:599	file:
+nextButton	D:\A\MPLAB\sdmod32\main.c	21;"	l	line:21
+nf	D:\A\MPLAB\sdmod32\fatfs\ff.c	735;"	l	line:735
+ni	D:\A\MPLAB\sdmod32\fatfs\ff.c	1635;"	l	line:1635
+note	D:\A\MPLAB\sdmod32\mod32.c	268;"	l	line:268	file:
+note	D:\A\MPLAB\sdmod32\mod32.c	448;"	l	line:448	file:
+note	D:\A\MPLAB\sdmod32\mod32.h	40;"	m	line:40
+nrsv	D:\A\MPLAB\sdmod32\fatfs\ff.c	2018;"	l	line:2018
+ns	D:\A\MPLAB\sdmod32\fatfs\ff.c	1292;"	l	line:1292
+ns	D:\A\MPLAB\sdmod32\fatfs\ff.c	1925;"	l	line:1925
+nsect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2876;"	l	line:2876
+nt	D:\A\MPLAB\sdmod32\fatfs\ff.c	1843;"	l	line:1843
+numberOfChannels	D:\A\MPLAB\sdmod32\mod32.h	35;"	m	line:35
+numberOfPatterns	D:\A\MPLAB\sdmod32\mod32.h	33;"	m	line:33
+nxt	D:\A\MPLAB\sdmod32\fatfs\ff.c	931;"	l	line:931
+ocr	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	367;"	l	line:367
+oldOrderIndex	D:\A\MPLAB\sdmod32\mod32.h	54;"	m	line:54
+ord	D:\A\MPLAB\sdmod32\fatfs\ff.c	1360;"	l	line:1360
+ord	D:\A\MPLAB\sdmod32\fatfs\ff.c	1421;"	l	line:1421
+order	D:\A\MPLAB\sdmod32\mod32.h	34;"	m	line:34
+orderIndex	D:\A\MPLAB\sdmod32\mod32.h	53;"	m	line:53
+out	D:\A\MPLAB\sdmod32\mod32.c	600;"	l	line:600	file:
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	1636;"	l	line:1636
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	1844;"	l	line:1844
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	2019;"	l	line:2019
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	3086;"	l	line:3086
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	3799;"	l	line:3799
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	3871;"	l	line:3871
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	3991;"	l	line:3991
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	825;"	l	line:825
+p	D:\A\MPLAB\sdmod32\fatfs\ff.c	869;"	l	line:869
+p	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	629;"	l	line:629
+p_cyl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3798;"	l	line:3798
+pad1	D:\A\MPLAB\sdmod32\fatfs\ff.h	117;"	m	line:117
+part	D:\A\MPLAB\sdmod32\fatfs\ff.c	3564;"	l	line:3564
+patternDelay	D:\A\MPLAB\sdmod32\mod32.h	55;"	m	line:55
+patternLoopCount	D:\A\MPLAB\sdmod32\mod32.h	56;"	m	line:56
+patternLoopRow	D:\A\MPLAB\sdmod32\mod32.h	57;"	m	line:57
+pcl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+pcl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3265;"	l	line:3265
+pd	D:\A\MPLAB\sdmod32\fatfs\ff.h	37;"	m	line:37
+pdrv	D:\A\MPLAB\sdmod32\fatfs\ff.c	3564;"	l	line:3564
+pi	D:\A\MPLAB\sdmod32\fatfs\ff.c	2014;"	l	line:2014
+pick_lfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1216;"	f	line:1216	file:	signature:( WCHAR *lfnbuf, BYTE *dir )
+player	D:\A\MPLAB\sdmod32\mod32.c	562;"	f	line:562
+portamento	D:\A\MPLAB\sdmod32\mod32.c	173;"	f	line:173	signature:(uint8_t channel)
+portamentoNote	D:\A\MPLAB\sdmod32\mod32.h	65;"	m	line:65
+portamentoSpeed	D:\A\MPLAB\sdmod32\mod32.h	66;"	m	line:66
+power_off	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	223;"	f	line:223	file:	signature:(void)
+power_on	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	209;"	f	line:209	file:	signature:(void)
+previousButton	D:\A\MPLAB\sdmod32\main.c	22;"	l	line:22
+processRow	D:\A\MPLAB\sdmod32\mod32.c	262;"	f	line:262
+processTick	D:\A\MPLAB\sdmod32\mod32.c	445;"	f	line:445
+pt	D:\A\MPLAB\sdmod32\fatfs\ff.h	38;"	m	line:38
+ptr	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	519;"	l	line:519
+put_fat	D:\A\MPLAB\sdmod32\fatfs\ff.c	862;"	f	line:862	signature:( FATFS *fs, DWORD clst, DWORD val )
+pv	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	628;"	l	line:628	file:
+r	D:\A\MPLAB\sdmod32\fatfs\ff.c	3988;"	l	line:3988
+r	D:\A\MPLAB\sdmod32\fatfs\ff.c	557;"	l	line:557
+rbuff	D:\A\MPLAB\sdmod32\fatfs\ff.c	2383;"	l	line:2383
+rc	D:\A\MPLAB\sdmod32\fatfs\ff.c	3873;"	l	line:3873
+rcnt	D:\A\MPLAB\sdmod32\fatfs\ff.c	2382;"	l	line:2382
+rcnt	D:\A\MPLAB\sdmod32\fatfs\ff.c	3502;"	l	line:3502
+rcvr_datablock	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	241;"	f	line:241	file:	signature:( BYTE *buff, UINT btr )
+rcvr_spi::xchg_spi(0xFF)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	89;"	d	line:89	file:
+rcvr_spi_m::(p)SPIBUF=0xFF;while(!SPISTATb	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	91;"	d	line:91	file:
+readPos	D:\A\MPLAB\sdmod32\mod32.h	103;"	m	line:103
+remain	D:\A\MPLAB\sdmod32\fatfs\ff.c	2381;"	l	line:2381
+remain	D:\A\MPLAB\sdmod32\fatfs\ff.c	3501;"	l	line:3501
+remove_chain	D:\A\MPLAB\sdmod32\fatfs\ff.c	925;"	f	line:925	file:	signature:( FATFS *fs, DWORD clst )
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	1357;"	l	line:1357
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	1418;"	l	line:1418
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	1475;"	l	line:1475
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	1582;"	l	line:1582
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	1924;"	l	line:1924
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2249;"	l	line:2249
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2380;"	l	line:2380
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2481;"	l	line:2481
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2597;"	l	line:2597
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2644;"	l	line:2644
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2698;"	l	line:2698
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2731;"	l	line:2731
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2809;"	l	line:2809
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	2967;"	l	line:2967
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3007;"	l	line:3007
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3049;"	l	line:3049
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3083;"	l	line:3083
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3146;"	l	line:3146
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3194;"	l	line:3194
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3262;"	l	line:3262
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3337;"	l	line:3337
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3378;"	l	line:3378
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3419;"	l	line:3419
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3500;"	l	line:3500
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	3992;"	l	line:3992
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	682;"	l	line:682
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	765;"	l	line:765
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	870;"	l	line:870
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	930;"	l	line:930
+res	D:\A\MPLAB\sdmod32\fatfs\ff.c	984;"	l	line:984
+res	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	112;"	l	line:112
+res	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	316;"	l	line:316
+res	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	518;"	l	line:518
+resion	D:\A\MPLAB\sdmod32\fatfs\ff.c	933;"	l	line:933
+resp	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	281;"	l	line:281
+rfs	D:\A\MPLAB\sdmod32\fatfs\ff.c	2208;"	l	line:2208
+right	D:\A\MPLAB\sdmod32\mod32.h	101;"	m	line:101
+row	D:\A\MPLAB\sdmod32\mod32.c	143;"	l	line:143	file:
+row	D:\A\MPLAB\sdmod32\mod32.h	51;"	m	line:51
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	1190;"	l	line:1190
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	1221;"	l	line:1221
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	1256;"	l	line:1256
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	3872;"	l	line:3872
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	3924;"	l	line:3924
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	3991;"	l	line:3991
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	531;"	l	line:531
+s	D:\A\MPLAB\sdmod32\fatfs\ff.c	556;"	l	line:556
+s	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	630;"	l	line:630
+s_hd	D:\A\MPLAB\sdmod32\fatfs\ff.c	3799;"	l	line:3799
+s_part	D:\A\MPLAB\sdmod32\fatfs\ff.c	3801;"	l	line:3801
+sampleEnd	D:\A\MPLAB\sdmod32\mod32.h	81;"	m	line:81
+sampleLoopEnd	D:\A\MPLAB\sdmod32\mod32.h	84;"	m	line:84
+sampleLoopLength	D:\A\MPLAB\sdmod32\mod32.h	83;"	m	line:83
+sampleNumber	D:\A\MPLAB\sdmod32\mod32.c	267;"	l	line:267	file:
+sampleNumber	D:\A\MPLAB\sdmod32\mod32.c	447;"	l	line:447	file:
+sampleNumber	D:\A\MPLAB\sdmod32\mod32.h	39;"	m	line:39
+sampleOffset	D:\A\MPLAB\sdmod32\mod32.c	273;"	l	line:273	file:
+samplePointer	D:\A\MPLAB\sdmod32\mod32.c	595;"	l	line:595	file:
+samplePointer	D:\A\MPLAB\sdmod32\mod32.h	95;"	m	line:95
+sampleStart	D:\A\MPLAB\sdmod32\mod32.h	80;"	m	line:80
+sampleloopBegin	D:\A\MPLAB\sdmod32\mod32.h	82;"	m	line:82
+samples	D:\A\MPLAB\sdmod32\mod32.h	31;"	m	line:31
+samplesPerTick	D:\A\MPLAB\sdmod32\mod32.h	48;"	m	line:48
+scl	D:\A\MPLAB\sdmod32\fatfs\ff.c	933;"	l	line:933
+scl	D:\A\MPLAB\sdmod32\fatfs\ff.c	983;"	l	line:983
+sclust	D:\A\MPLAB\sdmod32\fatfs\ff.h	120;"	m	line:120
+sclust	D:\A\MPLAB\sdmod32\fatfs\ff.h	146;"	m	line:146
+sdj	D:\A\MPLAB\sdmod32\fatfs\ff.c	3195;"	l	line:3195
+sect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2381;"	l	line:2381
+sect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2482;"	l	line:2482
+sect	D:\A\MPLAB\sdmod32\fatfs\ff.c	3084;"	l	line:3084
+sect	D:\A\MPLAB\sdmod32\fatfs\ff.c	3501;"	l	line:3501
+sect	D:\A\MPLAB\sdmod32\fatfs\ff.h	148;"	m	line:148
+select	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	144;"	f	line:144	file:	signature:(void)
+send_cmd	D:\A\MPLAB\sdmod32\fatfs\diskio.h	33;"	p	line:33	signature:(BYTE cmd, DWORD arg)
+send_cmd	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	311;"	f	line:311	file:	signature:( BYTE cmd, DWORD arg )
+si	D:\A\MPLAB\sdmod32\fatfs\ff.c	1635;"	l	line:1635
+sine	D:\A\MPLAB\sdmod32\mod32.c	57;"	v	line:57
+sn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1479;"	l	line:1479
+sobj	D:\A\MPLAB\sdmod32\fatfs\ff.h	90;"	m	line:90
+songLength	D:\A\MPLAB\sdmod32\mod32.h	32;"	m	line:32
+speed	D:\A\MPLAB\sdmod32\mod32.h	49;"	m	line:49
+ssize	D:\A\MPLAB\sdmod32\fatfs\ff.h	87;"	m	line:87
+stat	D:\A\MPLAB\sdmod32\fatfs\ff.c	2016;"	l	line:2016
+stat	D:\A\MPLAB\sdmod32\fatfs\ff.c	3084;"	l	line:3084
+stat	D:\A\MPLAB\sdmod32\fatfs\ff.c	3570;"	l	line:3570
+stat	D:\A\MPLAB\sdmod32\fatfs\ff.c	3800;"	l	line:3800
+sum	D:\A\MPLAB\sdmod32\fatfs\ff.c	1337;"	l	line:1337
+sum	D:\A\MPLAB\sdmod32\fatfs\ff.c	1360;"	l	line:1360
+sum	D:\A\MPLAB\sdmod32\fatfs\ff.c	1421;"	l	line:1421
+sum	D:\A\MPLAB\sdmod32\fatfs\ff.c	1479;"	l	line:1479
+sumL	D:\A\MPLAB\sdmod32\mod32.c	592;"	l	line:592	file:
+sumR	D:\A\MPLAB\sdmod32\mod32.c	593;"	l	line:593	file:
+sum_sfn	D:\A\MPLAB\sdmod32\fatfs\ff.c	1333;"	f	line:1333	file:	signature:( const BYTE *dir )
+sync	D:\A\MPLAB\sdmod32\fatfs\ff.c	761;"	f	line:761	file:	signature:( FATFS *fs )
+sys	D:\A\MPLAB\sdmod32\fatfs\ff.c	3564;"	l	line:3564
+sysect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2017;"	l	line:2017
+sz_cyl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3798;"	l	line:3798
+sz_disk	D:\A\MPLAB\sdmod32\fatfs\ff.c	3801;"	l	line:3801
+sz_part	D:\A\MPLAB\sdmod32\fatfs\ff.c	3801;"	l	line:3801
+szbfat	D:\A\MPLAB\sdmod32\fatfs\ff.c	2017;"	l	line:2017
+tbl	D:\A\MPLAB\sdmod32\fatfs\ff.c	1043;"	l	line:1043
+tbl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2014;"	l	line:2014
+tbl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+tbl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3564;"	l	line:3564
+tcl	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+temp	D:\A\MPLAB\sdmod32\mod32.c	147;"	l	line:147	file:
+temp	D:\A\MPLAB\sdmod32\mod32.c	189;"	l	line:189
+temp	D:\A\MPLAB\sdmod32\mod32.c	225;"	l	line:225
+temp	D:\A\MPLAB\sdmod32\mod32.c	71;"	l	line:71
+tempNote	D:\A\MPLAB\sdmod32\mod32.c	453;"	l	line:453	file:
+tick	D:\A\MPLAB\sdmod32\mod32.h	50;"	m	line:50
+tim	D:\A\MPLAB\sdmod32\fatfs\ff.c	2598;"	l	line:2598
+tim	D:\A\MPLAB\sdmod32\fatfs\ff.c	3265;"	l	line:3265
+tlen	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+token	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	246;"	l	line:246
+tot_cyl	D:\A\MPLAB\sdmod32\fatfs\ff.c	3798;"	l	line:3798
+tp	D:\A\MPLAB\sdmod32\fatfs\ff.c	1888;"	l	line:1888
+tp	D:\A\MPLAB\sdmod32\fatfs\ff.c	2735;"	l	line:2735
+tremolo	D:\A\MPLAB\sdmod32\mod32.c	223;"	f	line:223	signature:(uint8_t channel)
+tremoloDepth	D:\A\MPLAB\sdmod32\mod32.h	75;"	m	line:75
+tremoloPos	D:\A\MPLAB\sdmod32\mod32.h	76;"	m	line:76
+tremoloSpeed	D:\A\MPLAB\sdmod32\mod32.h	74;"	m	line:74
+tsect	D:\A\MPLAB\sdmod32\fatfs\ff.c	2017;"	l	line:2017
+ty	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	367;"	l	line:367
+uc	D:\A\MPLAB\sdmod32\fatfs\ff.c	1191;"	l	line:1191
+uc	D:\A\MPLAB\sdmod32\fatfs\ff.c	1222;"	l	line:1222
+ulen	D:\A\MPLAB\sdmod32\fatfs\ff.c	2819;"	l	line:2819
+unlock_fs	D:\A\MPLAB\sdmod32\fatfs\ff.c	587;"	f	line:587	file:	signature:( FATFS *fs, FRESULT res )
+v	D:\A\MPLAB\sdmod32\fatfs\ff.c	3990;"	l	line:3990
+validate	D:\A\MPLAB\sdmod32\fatfs\ff.c	2172;"	f	line:2172	file:	signature:( FATFS *fs, WORD id )
+vibrato	D:\A\MPLAB\sdmod32\mod32.c	187;"	f	line:187	signature:(uint8_t channel)
+vibratoDepth	D:\A\MPLAB\sdmod32\mod32.h	71;"	m	line:71
+vibratoPos	D:\A\MPLAB\sdmod32\mod32.h	72;"	m	line:72
+vibratoSpeed	D:\A\MPLAB\sdmod32\mod32.h	70;"	m	line:70
+vol	D:\A\MPLAB\sdmod32\fatfs\ff.c	2015;"	l	line:2015
+volume	D:\A\MPLAB\sdmod32\mod32.h	24;"	m	line:24
+volume	D:\A\MPLAB\sdmod32\mod32.h	60;"	m	line:60
+vs	D:\A\MPLAB\sdmod32\fatfs\ff.c	3565;"	l	line:3565
+vst	D:\A\MPLAB\sdmod32\fatfs\ff.c	3562;"	l	line:3562	file:
+w	D:\A\MPLAB\sdmod32\fatfs\ff.c	1634;"	l	line:1634
+w	D:\A\MPLAB\sdmod32\fatfs\ff.c	1889;"	l	line:1889
+w	D:\A\MPLAB\sdmod32\fatfs\ff.c	3989;"	l	line:3989
+w	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	471;"	f	line:471	signature:( BYTE drv, const BYTE *buff, DWORD sector, BYTE count )
+wait_ready	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	110;"	f	line:110	file:	signature:(void)
+waveControl	D:\A\MPLAB\sdmod32\mod32.h	68;"	m	line:68
+wbuff	D:\A\MPLAB\sdmod32\fatfs\ff.c	2484;"	l	line:2484
+wc	D:\A\MPLAB\sdmod32\fatfs\ff.c	1191;"	l	line:1191
+wc	D:\A\MPLAB\sdmod32\fatfs\ff.c	1222;"	l	line:1222
+wc	D:\A\MPLAB\sdmod32\fatfs\ff.c	1257;"	l	line:1257
+wc	D:\A\MPLAB\sdmod32\fatfs\ff.c	824;"	l	line:824
+wcnt	D:\A\MPLAB\sdmod32\fatfs\ff.c	2483;"	l	line:2483
+wflag	D:\A\MPLAB\sdmod32\fatfs\ff.h	82;"	m	line:82
+win	D:\A\MPLAB\sdmod32\fatfs\ff.h	106;"	m	line:106
+winsect	D:\A\MPLAB\sdmod32\fatfs\ff.h	105;"	m	line:105
+word	D:\A\MPLAB\sdmod32\mod32.c	64;"	f	line:64	signature:(uint8_t h, uint8_t l)
+writePos	D:\A\MPLAB\sdmod32\mod32.h	102;"	m	line:102
+wsect	D:\A\MPLAB\sdmod32\fatfs\ff.c	3565;"	l	line:3565
+wsect	D:\A\MPLAB\sdmod32\fatfs\ff.c	724;"	l	line:724
+xchg_spi	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	94;"	f	line:94	file:	signature:(BYTE dat)
+xmit_datablock	D:\A\MPLAB\sdmod32\fatfs\diskio.h	36;"	p	line:36	signature:(const BYTE *buff,BYTE token)
+xmit_datablock	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	276;"	f	line:276	file:	signature:( const BYTE *buff, BYTE token )
+xmit_spi::(dat)xchg_spi(dat)	D:\A\MPLAB\sdmod32\fatfs\mmcPIC32.c	88;"	d	line:88	file:
